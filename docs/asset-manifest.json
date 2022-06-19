@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/quizdeck/static/css/main.5f319c66.css",
-    "main.js": "/quizdeck/static/js/main.547b4794.js",
-    "static/js/787.1cdf91e0.chunk.js": "/quizdeck/static/js/787.1cdf91e0.chunk.js",
-    "index.html": "/quizdeck/index.html",
-    "static/media/autorenew_black_24dp.svg": "/quizdeck/static/media/autorenew_black_24dp.14163f445680b752e9890a261b62fcae.svg",
-    "main.5f319c66.css.map": "/quizdeck/static/css/main.5f319c66.css.map",
-    "main.547b4794.js.map": "/quizdeck/static/js/main.547b4794.js.map",
-    "787.1cdf91e0.chunk.js.map": "/quizdeck/static/js/787.1cdf91e0.chunk.js.map"
+    "main.css": "/react-quizdeck/static/css/main.5f319c66.css",
+    "main.js": "/react-quizdeck/static/js/main.5dd2aee4.js",
+    "static/js/787.1cdf91e0.chunk.js": "/react-quizdeck/static/js/787.1cdf91e0.chunk.js",
+    "index.html": "/react-quizdeck/index.html",
+    "static/media/autorenew_black_24dp.svg": "/react-quizdeck/static/media/autorenew_black_24dp.14163f445680b752e9890a261b62fcae.svg",
+    "main.5f319c66.css.map": "/react-quizdeck/static/css/main.5f319c66.css.map",
+    "main.5dd2aee4.js.map": "/react-quizdeck/static/js/main.5dd2aee4.js.map",
+    "787.1cdf91e0.chunk.js.map": "/react-quizdeck/static/js/787.1cdf91e0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5f319c66.css",
-    "static/js/main.547b4794.js"
+    "static/js/main.5dd2aee4.js"
   ]
 }

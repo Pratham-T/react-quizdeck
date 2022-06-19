@@ -177,6 +177,9 @@ body {
   box-shadow: rgba(0, 0, 0, .6) 2px 8px 4px -6px;
 }
 
+.hint-text {
+  margin: 0.25em;
+}
 
 .refresh-logo {
   height: 5vmin;
@@ -185,6 +188,6 @@ body {
   transform: scale(1.25, 0.75);
 }
 
-.refresh-logo:hover {
-  filter: invert(0.3);
+.reload-button:hover .refresh-logo{
+  filter: invert(50%) contrast(20%) brightness(50%);
 }

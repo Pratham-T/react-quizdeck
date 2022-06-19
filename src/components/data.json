@@ -17,6 +17,14 @@
             "question": "X is a British product launched from the ashes of the 1st World War. Its inventors who won a cleaning contract to clean a munitions factoryused the by-products of explosives and added water along with other compounds to it to form the basis of X. X's parent company also owns a popular anti-septic company and X's story can be truly summarised by the word 'one man's trash is another man's treasure'\n\n ID X.",
             "answer": "Harpic",
             "hints": []
+        },
+        {
+            "question": "At the firm X, there was a specific area in the middle of the San Francisco office to deal with difficult situations. When a change of leadership happened, with an immigrant chill personality replacing abusive white dude, this area was renamed as Y, to commemorate the change in culture, unwittingly referencing a classic novel.\n Identify the firm, and new/former name of the room.",
+            "answer": "Firm: Uber. \n Room: War Room / War and Peace Room",
+            "hints": [
+                "Its ___ room",
+                "The original name is a very common name for rooms where crises are handled."
+            ]
         }
     ]
 }

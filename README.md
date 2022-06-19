@@ -17,3 +17,5 @@ Check it out on [react-quizdeck Github Pages](https://pratham-t.github.io/react-
 4. Perfect centering of the card.
 
 (Looks like if I continue the work, it's still quite some stretching on my React skills. Anyway, everything is a learning opportunity and there's still a long way to go... To quote a great saint, "Much to learn, you still have.")
+
+![Looks beautiful](./ghimg/ss.jpg)

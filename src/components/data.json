@@ -10,12 +10,13 @@
         },
         {
             "question":"Among the many mysteries of modern world, the Dyatlov Pass incident takes up a top spot due to its gruesome and strange nature.\n In 1959, a group of students from the Ural Polytechnical Institute went on a hike to Mount Ortorten in Russia's Ural mountains. They were later found dead in different circumstances, some with missing eyes and tongues, a strange orange hue to their corpses and serious injuries. \n\nAliens, a secret Russian military program and even Yeti was proposed as possible reasons. \n\nBut a localised avalanche was the most plausible explanation according to experts. \n\nOn March, 2022, Johan Gaume and Alexander M. Puzrin of the ETH Zurich published a paper saying that an avalanche was the reason behind their death. \n\nThe duo had used a 'proprietary' version of a  snow-modelling algorithm from an American giant to help in their study - Gaume had already seen its potential in modelling frozen climates in 2013 in its use by the company and thought it could serve as the suitable tool for their study. \n\nHe therefore used it to create simulation of the Kholat Saykhl avalanche, to understand its impact on the human body. \n\nWhere exactly did they get the code from?",
-            "answer":"Frozen"
-
+            "answer":"Frozen",
+            "hints":[]
         },
         {
             "question": "X is a British product launched from the ashes of the 1st World War. Its inventors who won a cleaning contract to clean a munitions factoryused the by-products of explosives and added water along with other compounds to it to form the basis of X. X's parent company also owns a popular anti-septic company and X's story can be truly summarised by the word 'one man's trash is another man's treasure'\n\n ID X.",
-            "answer": "Harpic"
+            "answer": "Harpic",
+            "hints": []
         }
     ]
 }

@@ -11,10 +11,10 @@ Check it out on [react-quizdeck Github Pages](https://pratham-t.github.io/react-
 - "Reload" button will change the question.
 
 ## TODO
-~~1. Finding a way to parse newline (\n) in strings to linebreaks in HTML. Or any other way to give linebreaks in questions. Some are very long!~~ Done!
+1. ~~Finding a way to parse newline (\n) in strings to linebreaks in HTML. Or any other way to give linebreaks in questions. Some are very long!~~ Done!
 2. Image questions!
 3. Title hints, bold and italic hints in questions.
-~~4. Perfect centering of the card.~~ Done!
+4. ~~Perfect centering of the card.~~ Done!
 
 (Looks like if I continue the work, it's still quite some stretching on my React skills. Anyway, everything is a learning opportunity and there's still a long way to go... To quote a great saint, "Much to learn, you still have.")
 

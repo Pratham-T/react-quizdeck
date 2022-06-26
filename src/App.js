@@ -3,12 +3,25 @@ import reload from './components/images/autorenew_black_24dp.svg';
 import deck from './components/data.json'
 import './App.css';
 
+
+function parsePara(text) {
+  let para = text.split('\n');
+  return (
+    <>
+      {para.map((t, i) => {
+        return (<p key={i}>{t}</p>);
+      })}
+    </>
+  );
+}
+
+
 class Question extends React.Component{
 
   render(){
     return (
       <div id="Question">
-        {this.props.question}
+        {parsePara(this.props.question)}
       </div>
     );
   }
@@ -19,7 +32,7 @@ class Answer extends React.Component {
   render(){
     return (
       <div id="Answer">
-        {this.props.answer}
+        {parsePara(this.props.answer)}
       </div>
     );
   }
@@ -99,7 +112,7 @@ class Deck extends React.Component {
       let hintText = <></>;
       hintText = set[this.state.id].hints.map((hint, i) => {
         if(i+1 <= this.state.hintNum){
-          return (<div className={`hint-text hint-${i}`} key={i}>{hint}</div>);
+          return (<div className={`hint-text hint-${i}`} key={i}>{parsePara(hint)}</div>);
         }
         return null;
       });
@@ -128,7 +141,6 @@ class Deck extends React.Component {
             className={"reload-button"}
             onClick={this.switchQuestion.bind(this)}
             />
-          {/* <img src={reload} className="refresh-logo" alt="logo" onClick={this.switchQuestion.bind(this)}/> */}
         </div>
       </div>
     );
@@ -140,20 +152,6 @@ class Deck extends React.Component {
 function App() {
   return (
     <div className="App">
-      {/* <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header> */}
       <Deck />
     </div>
   );
